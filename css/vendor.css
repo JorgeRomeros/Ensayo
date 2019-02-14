@@ -1,5 +1,5 @@
-/**
- * ===================================================================
+/** el qnpt tyoe text
+=================================================================
  *
  *  Kards v1.0 Vendor/Third Party CSS
  *  url: styleshout.com
@@ -9,15 +9,7 @@
  *  01. Core Owl Carousel CSS File
  *  02. Magnific Popup CSS
  *  test 14/02/2019 03:20pm
- * ===================================================================
- */
-
-/*
- *  01. Core Owl Carousel CSS File
- *	 v1.3.3
- */
-
-/* clearfix */
+ * ===================
 .owl-carousel .owl-wrapper:after {
 	content: ".";
 	display: block;
